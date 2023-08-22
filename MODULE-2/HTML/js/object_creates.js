@@ -1,0 +1,1 @@
+//objects are defined as name:
